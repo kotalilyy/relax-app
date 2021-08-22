@@ -1,6 +1,6 @@
 # relax-app
 
-Take some deep breaths and relax with this app.
+Take a deep breath and relax with this app.
 
 ## Live Link
 
