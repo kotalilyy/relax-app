@@ -8,6 +8,7 @@ body {
   background: #224941 url("./img/bg.jpg") no-repeat center center/cover;
   color: #fff;
   font-family: "Montserrat", sans-serif;
+  font-size: 22px;
   min-height: 100vh;
   overflow: hidden;
   display: flex;
@@ -30,11 +31,11 @@ body {
 .gradient-circle {
   background: conic-gradient(
     #55b7a4 0%,
-    #4ca493 40%,
-    #fff 40%,
-    #fff 60%,
-    #336d62 60%,
-    #2a5b52 100%
+    #86d8c8 40%,
+    #86d8c8 40%,
+    #6fd3c1 60%,
+    #49a191 60%,
+    #6fd3c1 100%
   );
   width: 320px;
   height: 320px;
@@ -47,7 +48,7 @@ body {
 
 /* solid circle */
 .circle {
-  background-color: #010f1c;
+  background-color: #0d0e0f;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -58,7 +59,7 @@ body {
 }
 
 .pointer {
-  background-color: #fff;
+  background-color: rgb(133, 187, 202);
   border-radius: 50%;
   height: 20px;
   width: 20px;
