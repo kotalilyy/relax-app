@@ -1,6 +1,6 @@
 # relax-app
 
-Take some deep breaths and relax with this helpful app 
+Take some deep breaths and relax with this app.
 
 ## Live Link
 
@@ -10,8 +10,8 @@ Take some deep breaths and relax with this helpful app
 
 Click [here](https://www.youtube.com/watch?v=l-1ZrU6avzI) if you would like to create this app.
 
-Thanks @[bradtraversy](https://github.com/bradtraversy
-)
+Thanks @[bradtraversy](https://github.com/bradtraversy)
+
 ## Contributions
 
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
