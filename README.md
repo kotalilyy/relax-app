@@ -1,6 +1,6 @@
 # relax-app
 
-Take a deep breath and relax with this app.
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 ## Live Link
 
@@ -14,7 +14,7 @@ Thanks @[bradtraversy](https://github.com/bradtraversy)
 
 ## Contributions
 
-Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Questions
 
